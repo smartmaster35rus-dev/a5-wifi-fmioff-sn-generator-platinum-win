@@ -8,23 +8,23 @@
 
 <p align="center">
 
-[в¬‡пёЏ Download latest release](https://github.com/smartmaster35rus-dev/a5-wifi-fmioff-sn-generator-platinum-win/releases/latest) В· [рџЄџ macOS build](https://github.com/smartmaster35rus-dev/a5-wifi-fmioff-sn-generator-platinum-mac/releases/latest) В· [рџЊђ Activator site](https://smartmaster35rus-activator.ru/compatible.php)
+[⬇️ Download latest release](https://github.com/smartmaster35rus-dev/a5-wifi-fmioff-sn-generator-platinum-win/releases/latest) · [🪟 macOS build](https://github.com/smartmaster35rus-dev/a5-wifi-fmioff-sn-generator-platinum-mac/releases/latest) · [🌐 Activator site](https://smartmaster35rus-activator.ru/compatible.php)
 
 </p>
 
 ---
 
-## рџ‡·рџ‡є Рћ РїСЂРѕРіСЂР°РјРјРµ
+## 🇷🇺 О программе
 
 **A5 Wi‑Fi Find My SN Generator Platinum** — генератор серийных номеров для исследования Find My на Wi‑Fi iPad/iPhone **A5/A6** (iOS 7–10.3.4).
 
-## рџ‡¬рџ‡§ About
+## 🇬🇧 About
 
 Windows serial number research generator for A5/A6 Wi‑Fi devices. Find My status research workflows.
 
 ---
 
-## вњЁ Key features
+## ✨ Key features
 
 | Feature | Description |
 |---------|-------------|
@@ -35,19 +35,19 @@ Windows serial number research generator for A5/A6 Wi‑Fi devices. Find My stat
 
 ---
 
-## в¬‡пёЏ Download
+## ⬇️ Download
 
 **[Releases](https://github.com/smartmaster35rus-dev/a5-wifi-fmioff-sn-generator-platinum-win/releases/latest)**
 
 > Use only on devices you are permitted to service. Run Windows builds as Administrator when required.
 
-## рџ“‹ Requirements
+## 📋 Requirements
 
 - **Windows 10 / 11**
 - **iOS 7 – 10.3.4**
 - A5/A6 Wi‑Fi device
 
-## рџ”— Related links
+## 🔗 Related links
 
 | Resource | URL |
 |----------|-----|
@@ -56,9 +56,9 @@ Windows serial number research generator for A5/A6 Wi‑Fi devices. Find My stat
 
 ---
 
-## вљ–пёЏ Disclaimer
+## ⚖️ Disclaimer
 
-РРЅСЃС‚СЂСѓРјРµРЅС‚ РїСЂРµРґРЅР°Р·РЅР°С‡РµРЅ РґР»СЏ **Р°РІС‚РѕСЂРёР·РѕРІР°РЅРЅРѕРіРѕ СЃРµСЂРІРёСЃР° Рё РёСЃСЃР»РµРґРѕРІР°РЅРёР№** РЅР° СѓСЃС‚СЂРѕР№СЃС‚РІР°С…, РєРѕС‚РѕСЂС‹РјРё РІС‹ РІР»Р°РґРµРµС‚Рµ РёР»Рё РёРјРµРµС‚Рµ РїСЂР°РІРѕ РѕР±СЃР»СѓР¶РёРІР°С‚СЊ.
+Инструмент предназначен для **авторизованного сервиса и исследований** на устройствах, которыми вы владеете или имеете право обслуживать.
 
 For **authorized service and research** on devices you own or may service.
 
@@ -66,6 +66,6 @@ For **authorized service and research** on devices you own or may service.
 
 <p align="center">
 
-**SmartMaster35Rus** В· [smartmaster35rus-activator.ru](https://smartmaster35rus-activator.ru/compatible.php)
+**SmartMaster35Rus** · [smartmaster35rus-activator.ru](https://smartmaster35rus-activator.ru/compatible.php)
 
 </p>
